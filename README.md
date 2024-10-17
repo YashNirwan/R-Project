@@ -29,4 +29,4 @@ You can install `analyzeGPS` directly from GitHub (after creating a repo) using 
 install.packages("devtools")
 
 # Install analyzeGPS from GitHub
-devtools::install_github("your_username/analyzeGPS")
+devtools::install_github("YashNirwan/analyzeGPS")
